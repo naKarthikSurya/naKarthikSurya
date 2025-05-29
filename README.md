@@ -24,7 +24,7 @@
 - 🔍 Semantic search + RAG pipeline
 - 📚 Focused on Indian laws like RTI, IPC, Environmental Acts
 
-### 🐾 BeastlyVisionX: Animal Image Classifier
+### 🐾 [BeastlyVisionX: Animal Image Classifier](https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier)
 > Built with HuggingFace ViT + FastAPI + Docker for real-time animal species recognition.
 
 ### ✍️ AI Story Generator
