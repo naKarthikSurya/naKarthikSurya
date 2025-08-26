@@ -9,7 +9,7 @@
 
 - 🤖 Entry-level AI Developer & Data Scientist
 - 🛠️ Skilled in **Python, FastAPI, Transformers, and Generative AI**
-- 📚 Focused on **LLMs, RAG systems, NLP, and LegalTech**
+- 📚 Focused on **LLMs, RAG systems, NLP**
 - 🧠 Enthusiastic about continuous learning, experimentation, and open-source collaboration
 - 🗃️ Comfortable with local inference, cloud deployment, and privacy-first AI systems
 
