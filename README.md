@@ -18,7 +18,7 @@
 ## 🔨 My Recent Projects
 
 ### ⚖️ [Legal AI Assistant](https://github.com/naKarthikSurya/Legal-AI-Model)
-> Privacy-first legal Q&A system using Gemma 2B-IT + LlamaIndex with 5000+ Indian case laws.
+> Privacy-first legal Q&A system using Gemma 2B-IT + LlamaIndex with 5500+ Indian case laws.
 
 - ✅ Fully offline, FastAPI + Streamlit based
 - 🔍 Semantic search + RAG pipeline
