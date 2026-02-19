@@ -57,23 +57,23 @@ karthik = {
 <div align="center">
 
 <a href="https://github.com/naKarthikSurya/nakarthiksurya-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naKarthikSurya&repo=nakarthiksurya-website&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="nakarthiksurya-website" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=nakarthiksurya-website&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="nakarthiksurya-website" />
 </a>
 
 > live at [nakarthiksurya.com](http://www.nakarthiksurya.com)
 
 <a href="https://github.com/naKarthikSurya/Legal-Adviser-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naKarthikSurya&repo=Legal-Adviser-AI&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Legal-Adviser-AI" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-Adviser-AI&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Legal-Adviser-AI" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/naKarthikSurya/Legal-AI-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naKarthikSurya&repo=Legal-AI-Model&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Legal-AI-Model" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-AI-Model&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Legal-AI-Model" />
 </a>
 
 <a href="https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naKarthikSurya&repo=BeastlyVisionX-Animal-Image-Classifier&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="BeastlyVisionX" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=BeastlyVisionX-Animal-Image-Classifier&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="BeastlyVisionX" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/naKarthikSurya/AI-Story-Generator-using-GenAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naKarthikSurya&repo=AI-Story-Generator-using-GenAI&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="AI-Story-Generator" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=AI-Story-Generator-using-GenAI&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="AI-Story-Generator" />
 </a>
 
 </div>
@@ -84,8 +84,8 @@ karthik = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naKarthikSurya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" height="160" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naKarthikSurya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" alt="Top Langs" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nakarthiksurya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" height="160" />&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nakarthiksurya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" alt="Top Langs" height="160" />
 
 <br/>
 
