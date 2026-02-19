@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f0c29,70:302b63,100:24243e&height=220&section=header&text=Karthik%20Surya&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Legal-Tech%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f0c29,70:302b63,100:24243e&height=220&section=header&text=Karthik%20Surya&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=NestJS+%C2%B7+TypeScript+%C2%B7+MySQL+%40+Class+One+Exchange;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+LLM+Inference;Legal-Tech+AI+%C2%B7+Making+Indian+Law+Accessible;From+backend+APIs+to+autonomous+AI+pipelines." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=NestJS+%C2%B7+TypeScript+%C2%B7+MySQL+%40+Class+One+Exchange;Building+production-ready+backend+APIs+and+real-time+systems;Focused+on+clean+architecture%2C+performance%2C+and+reliability;From+backend+engineering+to+full-stack+delivery." alt="Typing SVG" />
 
 <br/>
 
@@ -28,9 +28,9 @@ const karthik = {
 
   currentFocus: [
     "Building scalable backend systems with NestJS + TypeScript",
-    "Multi-agent AI pipelines for real-world problem solving",
-    "Local LLM inference for privacy-first AI applications",
-    "Legal-Tech AI — grounded, citation-validated Indian law retrieval",
+    "Designing robust REST APIs and WebSocket services",
+    "Improving database performance and system reliability",
+    "Shipping clean, maintainable code with strong engineering practices",
   ],
 
   nextQuest  : "Home lab / self-hosted server setup — Project 2026 🖥️",
@@ -41,7 +41,7 @@ const karthik = {
 
 ## 🛠️ Tech Stack
 
-**Backend & Infrastructure**
+**Core Stack**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,36 +50,14 @@ const karthik = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**AI / ML**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-<details>
-<summary><b>📋 Full Stack Breakdown</b></summary>
-
-<br/>
-
-| Domain | Tools & Technologies |
-|---|---|
-| **Backend (Day Job)** | NestJS · TypeScript · Node.js · MySQL · REST APIs · WebSockets |
-| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · HuggingFace Transformers |
-| **Generative AI** | Gemini · Gemma · LlamaIndex · LangChain · Ollama |
-| **API Layer** | FastAPI · Python · WebSockets |
-| **Frontend** | React · Vite · TypeScript |
-| **Infrastructure** | Docker · Nginx · Linux · Git |
-
-</details>
 
 ---
 
@@ -153,9 +131,9 @@ const karthik = {
 
 ## 🎮 Beyond the Code
 
-When I'm not architecting systems or fine-tuning models, you'll find me in:
+When I'm not building systems, you'll find me in:
 
-&nbsp;&nbsp;`Fortnite` &nbsp;·&nbsp; `Spider-Man` &nbsp;·&nbsp; `Ghost of Tsushima`
+&nbsp;&nbsp;`Fortnite` &nbsp;·&nbsp; `Spider-Man` &nbsp;·&nbsp; `Ghost of Tsushima` &nbsp;·&nbsp; `and more...`
 
 ---
 
