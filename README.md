@@ -1,7 +1,7 @@
 <!-- MASTER CARD SECTION -->
 <p align="center" style="margin-bottom: 0;">
-  <a href="http://www.nakarthiksurya.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f0c29,70:302b63,100:24243e&height=220&section=header&text=Karthik%20Surya&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+  <a href="https://portfolio-bt.vercel.app">
+    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Bharanitharan Master Banner" width="100%" />
   </a>
 </p>
 <h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">Karthik Surya</h1>
