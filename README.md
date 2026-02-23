@@ -19,7 +19,7 @@
       <br><br>
       **Focus:** SHIPPING clean, maintainable code with strong engineering practices.
       <br>
-      [View My Portfolio](http://www.nakarthiksurya.com) • [Published Research](https://doi.org/10.55041/IJSREM48260)
+      [View My Portfolio](https://www.nakarthiksurya.com) • [Published Research](https://doi.org/10.55041/IJSREM48260)
     </td>
     <td width="42%" align="center" valign="middle">
       <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="340" alt="Coding Animation">
