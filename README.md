@@ -63,30 +63,44 @@
 <!-- PROJECTS -->
 <h2 align="center">Shipped & Engineering Work</h2>
 
-<div align="center">
-<a href="https://github.com/naKarthikSurya/NilaHospital-Website">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=NilaHospital-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-&nbsp;
-<a href="https://github.com/naKarthikSurya/nakarthiksurya-website">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=nakarthiksurya-website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/naKarthikSurya/Legal-Adviser-AI">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-Adviser-AI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-&nbsp;
-<br/>
-<a href="https://github.com/naKarthikSurya/Legal-AI-Model">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-AI-Model&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=BeastlyVisionX-Animal-Image-Classifier&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-&nbsp;
-<a href="https://github.com/naKarthikSurya/AI-Story-Generator-using-GenAI">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=AI-Story-Generator-using-GenAI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-</div>
+<table align="center" style="width:100%; border-spacing: 12px; border-collapse: separate;">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/naKarthikSurya/NilaHospital-Website">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=NilaHospital-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/naKarthikSurya/nakarthiksurya-website">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=nakarthiksurya-website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/naKarthikSurya/Legal-Adviser-AI">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-Adviser-AI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/naKarthikSurya/Legal-AI-Model">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-AI-Model&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=BeastlyVisionX-Animal-Image-Classifier&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/naKarthikSurya/AI-Story-Generator-using-GenAI">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=AI-Story-Generator-using-GenAI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
