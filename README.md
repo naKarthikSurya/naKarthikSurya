@@ -6,140 +6,113 @@
 </p>
 <h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">Karthik Surya</h1>
 <h3 align="center" style="font-weight:500; color:#A78BFA;">Software Engineer @ Class One Exchange</h3>
-<p align="center" style="font-style: italic;">Building production-ready backend APIs and real-time systems.</p>
+<p align="center" style="font-style: italic;">Building production-ready backend APIs and real-time distributed systems.</p>
 
 ---
 
 <!-- ABOUT SECTION -->
-<table align="center" style="width:100%; border-spacing: 20px;">
-  <tr>
-    <td width="58%" valign="top">
-      <h2>About Me</h2>
-      I’m a Software Engineer focused on building scalable backend systems with NestJS and TypeScript. I specialize in designing robust REST APIs, WebSocket services, and improving database performance. With a B.Tech in AI & Data Science, I also have a strong interest in intelligent legal information retrieval and modern system architecture. 
-      <br><br>
-      **Focus:** SHIPPING clean, maintainable code with strong engineering practices.
-      <br>
-      [View My Portfolio](https://www.nakarthiksurya.com) • [Published Research](https://doi.org/10.55041/IJSREM48260)
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="340" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+## About
+
+I am a Software Engineer focused on building scalable, resilient backend systems using **NestJS**, **TypeScript**, and **Node.js**. My core expertise centers on architecting robust RESTful and WebSocket services, optimizing relational and NoSQL database performance, and designing event-driven microservices.
+
+With a background in **AI & Data Science (B.Tech)**, I have a strong research interest in intelligent legal information retrieval, natural language processing, and modern system architecture.
+
+**Focus:** Shipping clean, maintainable, and observable code backed by sound engineering practices.
+
+[Portfolio](https://www.nakarthiksurya.com) &nbsp;•&nbsp; [Published Research](https://doi.org/10.55041/IJSREM48260) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/karthiksurya-na)
 
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">Tech Stack</h2>
-<table align="center" style="width:100%; border-spacing: 12px; text-align:center;">
-  <tr>
-    <td>
-      <h3>Backend & Database</h3>
-      <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,mysql,postgres,mongodb,redis,prisma,graphql,express&perline=6" /><br/>
-      <sub>NestJS · TypeScript · Node.js · MySQL · PostgreSQL · MongoDB · Redis · Prisma · GraphQL · Express</sub>
-    </td>
-    <td>
-      <h3>Frontend & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,js,figma,postman,slack&perline=6" /><br/>
-      <sub>React · Next.js · Vite · TailwindCSS · HTML · CSS · JavaScript · Figma · Postman · Slack</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>AI & Data Science</h3>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,langchain,ollama&perline=6" /><br/>
-      <sub>Python · FastAPI · PyTorch · TensorFlow · LangChain · Ollama</sub>
-    </td>
-    <td>
-      <h3>DevOps & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vercel&perline=6" /><br/>
-      <sub>Docker · Linux · Nginx · Git · GitHub · GitHub Actions · Vercel</sub>
-    </td>
-  </tr>
-</table>
+## Technical Stack
+
+<div align="center">
+
+#### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,mysql,postgres,mongodb,redis,prisma,graphql,express&perline=10" alt="Backend and Database Skills" />
+
+#### AI, Data Science & Languages
+<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,langchain,ollama,js&perline=8" alt="AI and Data Science Skills" />
+
+#### Frontend, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,docker,linux,nginx,git,githubactions,vercel&perline=10" alt="Frontend and DevOps Skills" />
+
+</div>
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">Shipped & Engineering Work</h2>
+<!-- FEATURED PROJECTS -->
+## Featured Projects
 
-<table align="center" style="width:100%; border-spacing: 12px; border-collapse: separate;">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/naKarthikSurya/NilaHospital-Website">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=NilaHospital-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/naKarthikSurya/nakarthiksurya-website">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=nakarthiksurya-website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/naKarthikSurya/Legal-Adviser-AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-Adviser-AI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/naKarthikSurya/Legal-AI-Model">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=Legal-AI-Model&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=BeastlyVisionX-Animal-Image-Classifier&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/naKarthikSurya/AI-Story-Generator-using-GenAI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nakarthiksurya&repo=AI-Story-Generator-using-GenAI&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-      </a>
-    </td>
-  </tr>
-</table>
+#### [Nila Hospital Platform](https://github.com/naKarthikSurya/NilaHospital-Website)
+Healthcare administrative platform engineered for patient admission workflows, digital records management, and clinical scheduling.
+> **Tech Stack:** `React` &nbsp;•&nbsp; `Node.js` &nbsp;•&nbsp; `Express` &nbsp;•&nbsp; `MongoDB`
+
+#### [Legal Adviser AI](https://github.com/naKarthikSurya/Legal-Adviser-AI)
+Intelligent legal research assistant delivering automated case analysis, document synthesis, and statutory query retrieval.
+> **Tech Stack:** `Python` &nbsp;•&nbsp; `FastAPI` &nbsp;•&nbsp; `LangChain` &nbsp;•&nbsp; `Vector Embeddings`
+
+#### [Legal AI Model](https://github.com/naKarthikSurya/Legal-AI-Model)
+Domain-specialized language model fine-tuned for legal terminology, statutory interpretation, and document classification.
+> **Tech Stack:** `Python` &nbsp;•&nbsp; `PyTorch` &nbsp;•&nbsp; `HuggingFace` &nbsp;•&nbsp; `NLP`
+
+#### [BeastlyVisionX](https://github.com/naKarthikSurya/BeastlyVisionX-Animal-Image-Classifier)
+Deep learning computer vision system designed for real-time animal species recognition and multi-class image classification.
+> **Tech Stack:** `Python` &nbsp;•&nbsp; `TensorFlow` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `CNN`
+
+#### [AI Story Generator](https://github.com/naKarthikSurya/AI-Story-Generator-using-GenAI)
+Interactive narrative synthesis engine leveraging generative AI to dynamically craft contextual, branching story paths.
+> **Tech Stack:** `Python` &nbsp;•&nbsp; `Ollama` &nbsp;•&nbsp; `LLMs` &nbsp;•&nbsp; `FastAPI`
+
+#### [Engineering Portfolio](https://github.com/naKarthikSurya/nakarthiksurya-website)
+Personal portfolio architecture featuring clean component design, performance optimizations, and project showcases.
+> **Tech Stack:** `Next.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `TailwindCSS` &nbsp;•&nbsp; [Live Site](https://www.nakarthiksurya.com)
 
 ---
 
-<!-- GITHUB METRICS & INFOGRAPHICS -->
-<h2 align="center">📊 GitHub Metrics & Engineering Activity</h2>
+<!-- GITHUB ANALYTICS -->
+## Engineering Analytics
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/metrics/github-metrics.svg" alt="GitHub Metrics Infographic" width="620" />
 </div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naKarthikSurya&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=f97316&currStreakLabel=ffffff&sideLabels=e2e8f0&dates=94a3b8" />
-</p>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=naKarthikSurya&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=f97316&currStreakLabel=ffffff&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+</div>
 
 ---
 
-<!-- SNAKE CONTRIBUTIONS -->
-<h2 align="center">🐍 Contributions</h2>
+<!-- CONTRIBUTION HISTORY -->
+## Contribution History
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Animation" width="100%" />
 </div>
 
 ---
 
 <!-- CONNECT SECTION -->
-<h2 align="center">Let’s Connect</h2>
+## Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/karthiksurya-na" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED"/></a>
-  <a href="http://www.nakarthiksurya.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED"/></a>
-  <a href="https://youtube.com/@nakarthiksurya" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=7C3AED"/></a>
-  <a href="mailto:n.a.karthiksurya@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED"/></a>
+  <a href="https://linkedin.com/in/karthiksurya-na" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.nakarthiksurya.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://youtube.com/@nakarthiksurya" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=7C3AED" alt="YouTube"/></a>
+  &nbsp;
+  <a href="mailto:n.a.karthiksurya@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email"/></a>
 </p>
 
 ---
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naKarthikSurya&color=7C3AED&style=flat-square&label=views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=naKarthikSurya&color=7C3AED&style=flat-square&label=profile%20views" alt="Profile Views"/>
 </p>
-<p align="center" style="font-size:14px; color:#7C3AED;">
-  Built with focus · Shipped with intention · Always learning
+<p align="center" style="font-size:13px; color:#A78BFA;">
+  Built with focus · Shipped with intention · Constantly iterating
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0a0a0f&height=120&section=footer" width="100%" />
