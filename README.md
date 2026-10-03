@@ -1,7 +1,7 @@
 <!-- MASTER CARD SECTION -->
 <p align="center" style="margin-bottom: 0;">
-  <a href="https://portfolio-bt.vercel.app">
-    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Bharanitharan Master Banner" width="100%" />
+  <a href="https://www.nakarthiksurya.com">
+    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Karthik Surya Master Banner" width="100%" />
   </a>
 </p>
 <h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">Karthik Surya</h1>
@@ -105,31 +105,13 @@
 ---
 
 <!-- GITHUB METRICS & INFOGRAPHICS -->
-<h2 align="center">📊 GitHub Metrics & Engineering Infographics</h2>
+<h2 align="center">📊 GitHub Metrics & Engineering Activity</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/metrics/github-metrics.svg" alt="Metrics Embed" width="100%" />
+  <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/metrics/github-metrics.svg" alt="GitHub Metrics Infographic" width="620" />
 </div>
-
----
-
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">GitHub Insights</h2>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nakarthiksurya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0&rank_icon=github&include_all_commits=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nakarthiksurya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0&langs_count=8" height="165" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=naKarthikSurya&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=f97316&currStreakLabel=ffffff&sideLabels=e2e8f0&dates=94a3b8" />
 </p>
-
----
-
-<!-- CONTRIBUTION ACTIVITY -->
-<h2 align="center">Contribution Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naKarthikSurya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=7C3AED" width="100%" />
-</div>
 
 ---
 
