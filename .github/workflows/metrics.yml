@@ -1,0 +1,119 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allows running workflow manually from the Actions tab and on pushes to main
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token stored in repository secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Target output
+          filename: github-metrics.svg
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
+
+          # Options & Templates
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Calcutta
+
+          # Achievements & Badges
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # Activity Stream
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          # Calendar & Code Snippets
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+
+          # Discussions & Introduction
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # Languages Breakdown
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Notable Contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_self: yes
+          plugin_notable_types: commit
+
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+
+          # Stargazers & Stars
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Topics & Traffic
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_traffic: yes
+
+          # Screenshot Plugin (Optional: requires valid URL)
+          # plugin_screenshot: yes
+          # plugin_screenshot_url: "https://www.nakarthiksurya.com"
+          # plugin_screenshot_background: yes
+          # plugin_screenshot_mode: image
+          # plugin_screenshot_selector: body
+          # plugin_screenshot_title: "Portfolio Screenshot"
+
+          # Steam Plugin (Optional: requires STEAM_TOKEN and Steam ID)
+          # plugin_steam: yes
+          # plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          # plugin_steam_user: "YOUR_STEAM_ID"
+          # plugin_steam_sections: player, most-played, recently-played

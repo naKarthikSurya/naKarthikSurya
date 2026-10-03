@@ -104,6 +104,14 @@
 
 ---
 
+<!-- GITHUB METRICS & INFOGRAPHICS -->
+<h2 align="center">📊 GitHub Metrics & Engineering Infographics</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naKarthikSurya/naKarthikSurya/metrics/github-metrics.svg" alt="Metrics Embed" width="100%" />
+</div>
+
+---
+
 <!-- GITHUB ANALYTICS -->
 <h2 align="center">GitHub Insights</h2>
 <p align="center">
